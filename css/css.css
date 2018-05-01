@@ -1,0 +1,30 @@
+.alert{
+	margin-bottom: 0px;
+}
+
+a.close{
+	float: right;
+ 	font-size: 15px;
+  	font-weight: 100;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+}
+.card-header {
+    padding: 5px 20px 5px 5px;
+}
+
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #ff1a1a;
+}
+
+.alert-success{
+	border-color: #0080ff;
+}
+
+.alert-warning{
+	border-color: #ffff00;
+}
